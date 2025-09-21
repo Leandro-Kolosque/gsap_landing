@@ -1,7 +1,7 @@
 # Landing Page Animada com GSAP
 
 <p align="center">
-  <img src="public/readme/hero.png" alt="Odyssey Swords" width="800"/>
+  <img src="public/readme/hero.png" alt="Thumbnail" width="800"/>
 </p>
 
 [![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)]()
