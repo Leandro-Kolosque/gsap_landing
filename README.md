@@ -40,6 +40,15 @@ Alguns diferenciais:
 
 ---
 
+## 🌐 Acesse Online
+
+O portfólio está hospedado e disponível para visualização:  
+👉 [Clique aqui para acessar](https://gsap-landing-kolosque.vercel.app/)
+
+Ou, se preferir, escaneie o QR Code:
+
+<img src="public/images/qr-code.png" alt="QR Code do Portfólio" width="200"/>
+
 ## 🔧 Visualizar localmente
 
 Mesmo que não haja necessidade de instalação pesada, aqui vai um passo a passo pra quem quiser ver o projeto no próprio computador:
